@@ -1,0 +1,19 @@
+{
+  "name": "dicicip/php-otp-auth",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "N. Cahyo",
+      "email": "nurcahyoputro0@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.*",
+    "intervention/image": "^2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dicicip\\FileUpload\\": "src/"
+    }
+  }
+}
